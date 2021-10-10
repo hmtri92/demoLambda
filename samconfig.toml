@@ -2,10 +2,10 @@ version = 0.1
 [default]
 [default.deploy]
 [default.deploy.parameters]
-stack_name = "demo0909"
-s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-za0tt2dy5ayn"
-s3_prefix = "demo0909"
-region = "us-east-1"
+stack_name = "demo1009"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-10xg9dsjmh08o"
+s3_prefix = "demo1009"
+region = "ap-northeast-1"
 confirm_changeset = true
 capabilities = "CAPABILITY_IAM"
 image_repositories = []
